@@ -38,7 +38,7 @@ To configure your lab to include the script, follow these steps:
 ![first](http://i.imgur.com/kZnlEaM.png)  
 -  
 
-* You should be presented with a screen that looks something like this.
+* You should be presented with a screen that looks something like this. *Make sure the "Shared" box is checked for the scheme with your project's name.*
 
 ![second](http://i.imgur.com/p5HvRmx.png)  
 -
